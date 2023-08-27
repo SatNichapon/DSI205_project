@@ -2,9 +2,9 @@
 
 ## DSI205 Group Project: Least-Squares Problem Project
 
-**Project**  
-1.) 4-5 people per group  
-2.) Find a dataset from UCI (https://archive.ics.uci.edu/ml/index.php) or Kaggle (https://www.kaggle.com/datasets) **Make sure the dataset you picked has continuous attributes.  
+**Project**\
+1.) 4-5 people per group\
+2.) Find a dataset from UCI (https://archive.ics.uci.edu/ml/index.php) or Kaggle (https://www.kaggle.com/datasets) **Make sure the dataset you picked has continuous attributes.\
 3.) Apply Linear Regression Techniques on the data you picked.
 
 * Split data into 2 groups: use one group for finding linear regression parameters and another for computing the RMSE only.
